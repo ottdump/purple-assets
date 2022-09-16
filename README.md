@@ -1,0 +1,3 @@
+# purple-assets
+
+Static hosting.
